@@ -1,0 +1,11 @@
+{
+  "name": "ocp14",
+  "version": "1.0.7",
+  "description": "mon component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olivier vogler",
+  "license": "ISC"
+}
