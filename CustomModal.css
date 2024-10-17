@@ -1,17 +1,4 @@
-/* Variables CSS */
-:root {
-  --overlay-bg: rgba(0, 0, 0, 0.75);
-  --modal-bg: #fff;
-  --modal-padding: 20px;
-  --modal-radius: 10px;
-  --modal-width: 400px;
-  --modal-height: auto; /* Changez ici pour ajuster la hauteur automatiquement */
-  --modal-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  --close-bg: #000;
-  --close-size: 30px;
-  --close-font-size: 25px;
-  --close-color: #fff;
-}
+
 
 /* Styles pour la modale */
 .overlayStyle {
